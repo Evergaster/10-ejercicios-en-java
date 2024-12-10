@@ -49,7 +49,7 @@ public class NombreDeArchivo {
 
 En Java, la concatenación de cadenas se realiza principalmente usando el operador `+`. Para formatear cadenas, se utiliza el método `printf`, donde cada especificador (`%`) indica el tipo de dato que se quiere imprimir.
 <div style="display: flex; background: white;justify-content: center; align-items: center; width: 100%;">
-    <img src="https://www.it.uc3m.es/pbasanta/asng/course_notes/input_output_printf_example_es.png" style="max-width: 100%; height: auto;">
+    <img src="img/image.png" style="max-width: 100%; height: auto;">
 </div>
 
 Por ejemplo:
